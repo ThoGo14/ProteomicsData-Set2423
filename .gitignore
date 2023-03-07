@@ -1,0 +1,13 @@
+*.Rproj.user
+*.Rhistory
+*.RData
+*.Ruserdata
+*.png
+*.pdf
+*.xlsx
+*.pptx
+*.docx
+*.7z
+*.zip
+*.csv
+*.html

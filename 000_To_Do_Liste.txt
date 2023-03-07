@@ -1,0 +1,23 @@
+22.06.2022 Skripte Ausgeführt
+
+[X]	23.06.	00_Proteomics Data Preparation
+[X]	23.06	01_ProteomicsNRE2_Limma_Analyse
+[X]	23.06	02_ProteomicsNRE2_Raw_Data_plots
+[X]	23.06	03_Limma_Analyse__Split_RESvsLRE__FC
+[X]	23.06	04_Limma_Analyse__Split_RESvsLRE__Quantile
+[X]	30.06	05_Korrelation_ProteomicsNRE2_mit_KlinischenDaten
+[X]	18.07	06_Korrelation_ProteomicsNRE2_mit_TranscriptomicsNRE2
+[X]	19.07	07_Perform_GO_Analysis__Prot_Transcr_Overlap
+[]		08_SelectedPictures_Korrelation_ProteomicsNRE2_mit_KlinischenDaten
+[X]	01.07	09_Volcanoplots_from_LimmaTable
+[X]	07.07	10_Perform_GO_Analysis__from_LimmaTable
+[/]		11_Annotating_Gene_to_Mitochondria
+[X]	25.07	12_MYH_Switch
+[]		13_Korrelation_ProteomicsNRE2_mit_Einzelnen_Proteinen
+[X]	26.07	14_Overlap_of_Limma_Timepoints
+[X]	22.07	15_Perform_GO_Analysis__from_Korrelation_KlinischeDaten
+[X]	12.07	16_Korrelation_ProteomicsNRE2_mit_KlinischeDaten_Pictures
+[X]	01.07	17_Korrelation_ProteomicsNRE2_mit_KlinischenDaten__Volcanoplots
+[X]	26.07	18_Overlap_ProteomicsNRE2_mit_EpigenetikData
+[]		Zusatz1_OutlierAnaylse
+[X]	05.07	Vergleich Set 982 und 2423
