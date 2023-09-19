@@ -19,7 +19,7 @@ load("ProteomicsNRE2__Expression.RData")
 
 Proteomics_Protein_Info <- ProteomicsDataNRE2[["Proteomics_Protein_Info"]]
 
-KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/20210315_Klinische_Daten.xlsx")
+KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/00_Klinische_Daten.xlsx")
 
 ## Plots with FC Data ----
 if(all(!is.na(Welche_TP_forPlot)) & all(!is.na(Welche_KD_forPlot))){  

@@ -19,7 +19,7 @@ Proteomics_Protein_Info_IDs <- ProteomicsDataNRE2[["Proteomics_Protein_Info_IDs"
 
 # row.names(Proteomics_Protein_Info) <- Proteomics_Protein_Info$Gene_name
 
-KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/20210315_Klinische_Daten.xlsx")
+KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/00_Klinische_Daten.xlsx")
 
 ## Load Limma-analysis table for FC
 load("01_ProteomicsNRE2_Limma_Analyse.RData")

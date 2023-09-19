@@ -14,7 +14,7 @@ NRE2_GenesTable <- readRDS("E:/Auswertung mit R/00_Helpful Files/NRE2_GenesTable
 
 Proteomics_Proteins <- ProteomicsDataNRE2[["Proteomics_Protein_Info"]]$Gene_name
 
-KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/20210315_Klinische_Daten.xlsx")
+KlinischeDaten <- read.xlsx("E:/Auswertung mit R/00_Helpful Files/00_Klinische_Daten.xlsx")
 
 ## Limma Protein
 load("01_ProteomicsNRE2_Limma_Analyse.RData")
